@@ -1,11 +1,11 @@
 ### Hi, there 
 
-👋 I'm Atra
-🌱 I’m currently learning how to become software engineer
+- 👋 I'm Atra
+- 🌱 I’m currently learning how to become software engineer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cizz22)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cizz22&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cizz22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cizz22&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Cizz22/Cizz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

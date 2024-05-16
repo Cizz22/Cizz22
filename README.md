@@ -37,7 +37,7 @@ I'm currently studying software engineering at [ICTU - Thai Nguyen University of
 <!-- <p align="center">
 	<img src="https://moe-counter.glitch.me/get/@Cizz22?theme=moebooru-h"> <br/>
 </p> -->
-<a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@Cizz22?theme=rule34"></a>
+<a><img align="right" width=400 src="https://moe-counter.glitch.me/get/@Cizz22?theme=rule34"></a>
 <a href="https://github.com/Cizz22"><img align="left" width="100" src="https://storage.googleapis.com/sticker-prod/J4AagQnWMPrpcgB9S4Iu/10.thumb128.webp"></a>
 
 ```yaml

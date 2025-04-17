@@ -56,3 +56,8 @@ Hehe~ another cutie has been caught.
 [![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]()
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](cizzuu95@gmail.com)
 <!-- [![MiyagawaMizu](https://mizu.is-a.dev/public/miyagawamizu.png)](https://mizu.is-a.dev/) -->
+
+Disclaimer:
+This profile was made as a joke.
+Please consult your sense of humor before proceeding.
+No serious branding or professionalism was harmed in the making of this README.
